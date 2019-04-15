@@ -11,5 +11,6 @@ Following packages provide additional offline capabilities on top of Apollo Grap
 http://github.com/graphql-heroes/ApolloOfflineClient
 
 **Apollo Link Offline**:
+
 http://github.com/carvajalconsultants/apollo-link-offline
 
